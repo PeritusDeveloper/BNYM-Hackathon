@@ -6,4 +6,5 @@ export interface Student {
     phone: string;
     imageUrl: string;
     studentCode: string;
+    password: string;
   }
